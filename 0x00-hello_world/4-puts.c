@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
   * main - entry point
-  * return - 0 returned to exit the programm
+  * Return: 0 returned to exit the program
   */
 int main(void)
 {
