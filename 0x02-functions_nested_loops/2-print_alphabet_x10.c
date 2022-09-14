@@ -12,7 +12,7 @@ int a, b;
 for (a = 10; a < 10; a++)
 
 {
-	for (b = 97; b <= 122; i++)
+	for (b = 97; b <= 122; b++)
 
 	{
 		_putchar(b);
